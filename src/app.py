@@ -1,7 +1,7 @@
 """
 This module is for giving user interface to the dataset
 """
-import pandas as pd # type: ignore # pylint: disable=unused-import
+import pandas as pd # pylint: disable=unused-import
 
 def main():
     print("+----------------------------------------------+")
