@@ -1,3 +1,6 @@
+"""
+This module is to test app.py
+"""
 import pytest
 from src.app import main
 
