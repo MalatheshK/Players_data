@@ -1,4 +1,7 @@
-import pandas as pd
+"""
+This module is for giving user interface to the dataset
+"""
+import pandas as pd # type: ignore
 
 def main():
     print("+----------------------------------------------+")
